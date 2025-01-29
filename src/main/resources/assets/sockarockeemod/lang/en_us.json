@@ -1,4 +1,6 @@
 {
   "item.sockarockeemod.alexandrite": "Alexandrite",
-  "item.sockarockeemod.raw_alexandrite": "Raw Alexandrite"
+  "item.sockarockeemod.raw_alexandrite": "Raw Alexandrite",
+  "block.sockarockeemod.alexandrite_block": "Block of Alexandrite",
+  "block.sockarockeemod.raw_alexandrite_block": "Block of Raw Alexandrite"
 }
